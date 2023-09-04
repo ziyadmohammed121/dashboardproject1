@@ -1,0 +1,51 @@
+.profile{
+    text-align: center;
+}
+.profile img{
+    width: 130px;
+    height: 130px;
+    margin-top: 20px;
+    object-fit: contain;
+    color: black;
+
+}
+.profile h3{
+    font-weight: 800;
+    margin-bottom: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+}
+.profile h4{
+    font-size: medium;
+    font-weight: 600px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.profile img{
+
+    border: 2px solid;
+    border-radius: 50%;
+    
+
+}
+
+.pages {
+    display: flex;
+    flex-direction: column;
+
+}
+.pages a{
+    text-decoration: none;
+    color: black;
+    height: 40px;
+    padding: 10px 0 0 10px;
+}
+.pages a:hover{
+    background-color: rgb(120, 114, 104);
+}
+mat-icon{
+    vertical-align: middle;
+    margin-right: 14px;
+
+}

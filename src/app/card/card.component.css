@@ -1,0 +1,33 @@
+.card1{
+    width: 250px;
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    
+}
+.icon{
+    font-size: 50px;
+    height: fit-content;
+    width: fit-content;
+
+}
+.blue{
+    
+    backdrop-filter: blur(25px);
+    background-color: rgb(177, 128, 200);
+    background-image: url(https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg);
+    
+   
+}
+.green{
+    background-color: rgb(197, 159, 214);
+    
+}
+.red{
+    background-color: rgb(177, 128, 200);
+    background-image: url(https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg);
+    
+    
+}
